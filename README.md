@@ -46,20 +46,43 @@
 
 ![image](https://github.com/user-attachments/assets/7814cc5a-1cc5-4a04-88c9-53658702c2cf)
 ![image](https://github.com/user-attachments/assets/efff51b3-98d8-40c6-a3b2-ed8b32f2c6e1)
-![image](https://github.com/user-attachments/assets/4c9dd840-d28b-4cb5-a29e-b5357a128304)
+![image](https://github.com/user-attachments/assets/a7f2129c-5fc6-4f85-8feb-15d582b1abf3)
 
 ## ✔️모델링 1)
 
-![image](https://github.com/user-attachments/assets/742fc6b9-a149-45c4-b148-46997dae9e00)
-![image](https://github.com/user-attachments/assets/a077504b-b00c-43be-a0c5-50a3f95c8862)
+![image](https://github.com/user-attachments/assets/10773a9f-41a8-41bb-b231-0075e0bb1629)
+![image](https://github.com/user-attachments/assets/3d004139-b085-4a40-9883-0c29710aeeb2)
+
 
 ## ✔️모델링 2)
 
 - **image_dataset_from_directory를 이용해 training set, validation set을 만들기**
 
-![image](https://github.com/user-attachments/assets/b8ec08b8-9453-4f81-8220-c5ad49dee5fb)
+![image](https://github.com/user-attachments/assets/eb16fd59-00e2-4a05-b526-cfd75cecd6f2)
 
 - **pretrained_model인 Interception_v3를 이용해 transfer learning**
-![image](https://github.com/user-attachments/assets/68fb1bf7-8835-4970-a07f-8c849a5b459c)
-![image](https://github.com/user-attachments/assets/e34c9e0e-f6af-4475-92fc-2a25512fa8b9)
-![image](https://github.com/user-attachments/assets/874dfbd7-9645-41fc-bb5a-781d2a80d5f1)
+
+![image](https://github.com/user-attachments/assets/e7d281ce-ece9-412b-a2f7-df3e262c7138)
+![image](https://github.com/user-attachments/assets/9edfeba5-5102-4d05-a53b-618524d47d99)
+- 학습데이터
+
+![image](https://github.com/user-attachments/assets/49f831d6-636d-4d43-be95-c06e2bbb0a62)
+
+![image](https://github.com/user-attachments/assets/b450ce8e-f3cb-418d-a567-1080f0cbec99)
+
+## ✔️모델링 3)
+
+- 모델링 2 와 model구성 동일 / 학습데이터 다르게 사용
+
+![image](https://github.com/user-attachments/assets/e9bd5c8b-c171-4a42-9803-8df60e47f962)
+
+![image](https://github.com/user-attachments/assets/e459d626-7394-405e-a37d-a479aa72fc8a)
+
+- **image_dataset_from_directory을 학습데이터로 사용했을 시 성능이 더 좋은것을 확인 할 수 있었다.**
+
+
+
+
+
+
+
